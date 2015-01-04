@@ -1,3 +1,0 @@
-C:\Users\iang\Desktop\LeagueSharp\Ass\SFXUtility\obj\Release\SFXUtility.csprojResolveAssemblyReference.cache
-C:\Users\iang\Desktop\LeagueSharp\Ass\SFXUtility\obj\Release\SFXUtility.Properties.Resources.resources
-C:\Users\iang\Desktop\LeagueSharp\Ass\SFXUtility\obj\Release\SFXUtility.csproj.GenerateResource.Cache
