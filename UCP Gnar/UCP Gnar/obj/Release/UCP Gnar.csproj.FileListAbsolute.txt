@@ -1,0 +1,2 @@
+C:\Users\Windows 8.1X64 M1\Desktop\L-Assemblies-master\UCP Gnar\UCP Gnar\obj\Release\UCP Gnar.csprojResolveAssemblyReference.cache
+C:\Users\iang\Desktop\LeagueSharp\Ass\UCP Gnar\UCP Gnar\obj\Release\UCP Gnar.csprojResolveAssemblyReference.cache
