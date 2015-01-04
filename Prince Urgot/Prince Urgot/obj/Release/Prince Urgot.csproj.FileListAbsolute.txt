@@ -1,0 +1,2 @@
+C:\Users\Windows 8.1X64 M1\Desktop\L-Assemblies-master\Prince Urgot\Prince Urgot\obj\Release\Prince Urgot.csprojResolveAssemblyReference.cache
+C:\Users\iang\Desktop\LeagueSharp\Ass\Prince Urgot\Prince Urgot\obj\Release\Prince Urgot.csprojResolveAssemblyReference.cache
